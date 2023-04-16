@@ -9,6 +9,8 @@ ipykernel = "*"
 matplotlib = "*"
 scikit-image = "*"
 seaborn = "*"
+scikit-learn-extra = "*"
+pandas = "*"
 
 [dev-packages]
 
