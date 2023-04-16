@@ -1,4 +1,4 @@
-# unsupervised_learning_workshop2
+# Unsupervised Learning Workshop2
 
 In this repository we are going to explore unsupervised machine learning methods for clustering, for this case will be KMeans and KMedoids
 and those methods will be built from scratch in a python package.
